@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/coredns:1.1.3
+FROM gcr.io/google_containers/coredns:1.2.2
 MAINTAINER ywthings@qq.com
