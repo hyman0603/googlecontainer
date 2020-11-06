@@ -1,2 +1,2 @@
-FROM gcr.io/jenkinsxio/builder-jx:2.1.150-769
+FROM gcr.io/jenkinsxio/builder-jx:2.1.142-761
 MAINTAINER ywthings@qq.com
